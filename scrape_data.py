@@ -3,10 +3,10 @@
     Two files will be generated:
 
     1. Questions List
-    2. All Questions data
+    2. All Questions data (based on skip & limit)
 
 """
-import sys, os
+import os
 import json
 import pandas as pd
 
@@ -119,7 +119,6 @@ def create_all_questions_data(skip, limit, output_path):
 
             return q_ids, q_text
                 
-
         similar_ques = json.loads(data['similarQuestions'])
         q_dict['Similar Questions ID'], q_dict['Similar Questions Text'] = get_similar_questions_details(ques_df, similar_ques) 
 
