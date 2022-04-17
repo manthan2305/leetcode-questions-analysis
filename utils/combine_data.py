@@ -1,3 +1,7 @@
+""" This file is used to combine all individual questions data file.
+    It create one main file 'all_questions_data.csv'
+"""
+
 import os, sys
 import pandas as pd
 
