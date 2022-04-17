@@ -1,0 +1,72 @@
+Topic,Id
+Array,VG9waWNUYWdOb2RlOjU=
+Binary Search,VG9waWNUYWdOb2RlOjEx
+Line Sweep,VG9waWNUYWdOb2RlOjU2MTE5
+Sorting,VG9waWNUYWdOb2RlOjYxMDQ5
+Heap (Priority Queue),VG9waWNUYWdOb2RlOjYxMDUw
+Hash Table,VG9waWNUYWdOb2RlOjY=
+Sliding Window,VG9waWNUYWdOb2RlOjU1ODIx
+Database,VG9waWNUYWdOb2RlOjYxMDQz
+Counting,VG9waWNUYWdOb2RlOjYxMDYy
+Two Pointers,VG9waWNUYWdOb2RlOjk=
+Greedy,VG9waWNUYWdOb2RlOjE3
+Stack,VG9waWNUYWdOb2RlOjE1
+Monotonic Stack,VG9waWNUYWdOb2RlOjYxMDU0
+Prefix Sum,VG9waWNUYWdOb2RlOjYxMDY4
+Dynamic Programming,VG9waWNUYWdOb2RlOjEz
+Graph,VG9waWNUYWdOb2RlOjI0
+Topological Sort,VG9waWNUYWdOb2RlOjI2
+Memoization,VG9waWNUYWdOb2RlOjMz
+Depth-First Search,VG9waWNUYWdOb2RlOjIx
+Trie,VG9waWNUYWdOb2RlOjI3
+String,VG9waWNUYWdOb2RlOjEw
+Simulation,VG9waWNUYWdOb2RlOjYxMDU1
+Matrix,VG9waWNUYWdOb2RlOjYxMDUz
+Math,VG9waWNUYWdOb2RlOjg=
+Backtracking,VG9waWNUYWdOb2RlOjE0
+Bit Manipulation,VG9waWNUYWdOb2RlOjE5
+Combinatorics,VG9waWNUYWdOb2RlOjYxMDU2
+Design,VG9waWNUYWdOb2RlOjI1
+Game Theory,VG9waWNUYWdOb2RlOjYxMDcz
+Bitmask,VG9waWNUYWdOb2RlOjYxMDc4
+Divide and Conquer,VG9waWNUYWdOb2RlOjEy
+Tree,VG9waWNUYWdOb2RlOjIw
+Binary Search Tree,VG9waWNUYWdOb2RlOjMw
+Binary Tree,VG9waWNUYWdOb2RlOjYxMDU3
+Ordered Set,VG9waWNUYWdOb2RlOjYxMDcw
+Breadth-First Search,VG9waWNUYWdOb2RlOjIy
+Union Find,VG9waWNUYWdOb2RlOjIz
+Brainteaser,VG9waWNUYWdOb2RlOjMy
+Recursion,VG9waWNUYWdOb2RlOjMx
+Rolling Hash,VG9waWNUYWdOb2RlOjU2NTk4
+Suffix Array,VG9waWNUYWdOb2RlOjU2Njk4
+Hash Function,VG9waWNUYWdOb2RlOjYxMDY1
+Geometry,VG9waWNUYWdOb2RlOjM4
+Enumeration,VG9waWNUYWdOb2RlOjYxMDY2
+Binary Indexed Tree,VG9waWNUYWdOb2RlOjI4
+Shortest Path,VG9waWNUYWdOb2RlOjYxMDc2
+Number Theory,VG9waWNUYWdOb2RlOjYxMDY3
+Quickselect,VG9waWNUYWdOb2RlOjYxMDY5
+Segment Tree,VG9waWNUYWdOb2RlOjI5
+Merge Sort,VG9waWNUYWdOb2RlOjYxMDUx
+Data Stream,VG9waWNUYWdOb2RlOjYxMDYz
+Linked List,VG9waWNUYWdOb2RlOjc=
+String Matching,VG9waWNUYWdOb2RlOjYxMDUy
+Bucket Sort,VG9waWNUYWdOb2RlOjYxMDYw
+Interactive,VG9waWNUYWdOb2RlOjYxMDU5
+Randomized,VG9waWNUYWdOb2RlOjYxMDc1
+Doubly-Linked List,VG9waWNUYWdOb2RlOjYxMDU4
+Counting Sort,VG9waWNUYWdOb2RlOjYxMDcy
+Iterator,VG9waWNUYWdOb2RlOjYxMDY0
+Queue,VG9waWNUYWdOb2RlOjM0
+Probability and Statistics,VG9waWNUYWdOb2RlOjYxMDc5
+Minimum Spanning Tree,VG9waWNUYWdOb2RlOjYxMDgz
+Strongly Connected Component,VG9waWNUYWdOb2RlOjYxMDg1
+Monotonic Queue,VG9waWNUYWdOb2RlOjYxMDcx
+Eulerian Circuit,VG9waWNUYWdOb2RlOjYxMDc0
+Radix Sort,VG9waWNUYWdOb2RlOjYxMDYx
+Concurrency,VG9waWNUYWdOb2RlOjYxMDQ1
+Biconnected Component,VG9waWNUYWdOb2RlOjYxMDg0
+Rejection Sampling,VG9waWNUYWdOb2RlOjU0NTY5
+Reservoir Sampling,VG9waWNUYWdOb2RlOjM2
+Shell,VG9waWNUYWdOb2RlOjYxMDQ0
