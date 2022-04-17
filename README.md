@@ -24,3 +24,11 @@ analysis.ipynb
 ```sh
 predict-topics.ipynb
 ```
+
+### Analysis
+
+![1](img/1_difficulty_level.png)
+![2](img/2_number_of_questions_topicsnewplot.png)
+![3](img/3_with_diff_level.png)
+![4](img/4)
+![5](img/5_leading_topic.png)
