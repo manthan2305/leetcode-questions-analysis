@@ -4,6 +4,13 @@ Scrape Lettcode questions data using GraphQl API.
 Analyse questions and topics.
 Predict topics to given questions text or description.
 
+### Install:
+Python Version > 3.7
+
+```sh
+pip install -r requirements.txt
+```
+
 ### Run:
 Scrape all questions data
 ```sh
