@@ -1,6 +1,6 @@
 # leetcode-questions-analysis
 
-Scrape Lettcode questions data using GraphQl API.
+Scrape Lettcode questions data.
 Analyse questions and topics.
 Predict topics to given questions text or description.
 
@@ -23,14 +23,8 @@ python utils/create_topics_data.py
 ```
 (All data are already available `data/` folder)
 
-### Run Analysis:
-```sh
-analysis.ipynb
-```
-### Predict topics:
-```sh
-predict-topics.ipynb
-```
+### Analysis and prediction:
+`notebooks/` folder constains all analysis and topic prediction notebooks. 
 
 ### Analysis
 
